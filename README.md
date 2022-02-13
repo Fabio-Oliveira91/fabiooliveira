@@ -2,10 +2,11 @@
 
 <div align="center">
   <a href="https://github.com/fabiooliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiooliveira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiooliveira&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fabiooliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabiooliveira&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
+ 
 - Disponivel para realocação como: Suporte
 - Interesse em Front End ou Desenvolvedor PHP Jr
 - 👨‍💻 Estudando Intessamente: PHP (POO), MySQL, SQL Server, Javascript, Jquery, Docker, HTML, CSS;
@@ -21,13 +22,15 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  
 </div>
   
+  <br/>
   
  <div> 
     <a href="https://instagram.com/fabio.oficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:fabiodiego91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabio-oliveira-302433147/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href=https://api.whatsapp.com/send?phone=5547997631633&text=Ol%C3%A1%20Mundo!" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-%23E4405F?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  </div>
   
