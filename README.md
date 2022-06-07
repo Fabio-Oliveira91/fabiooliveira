@@ -31,6 +31,6 @@
     <a href="https://instagram.com/fabio.oficial" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:fabiodiego91@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fabio-oliveira-302433147/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href=https://api.whatsapp.com/send?phone=5547997631633&text=Ol%C3%A1%20Mundo!" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-%23E4405F?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+    <a href=[https://api.whatsapp.com/send?phone=5547997631633&text=Ol%C3%A1%20Mundo!](https://api.whatsapp.com/send?phone=5592984897570&text=*Ol%C3%A1%2C%20gostaria%20de%20um%20or%C3%A7amento!*)" target="_blank"><img src="https://img.shields.io/badge/-whatsapp-%23E4405F?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  </div>
   
